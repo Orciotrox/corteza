@@ -3,6 +3,7 @@
   <br />
   <br />
   <abbr>Freedom. Flexibility. Performance. Speed.</abbr>
+  <abbr>For Personal Testing</abbr>
   <br />
   <br />
   <div align="center">
