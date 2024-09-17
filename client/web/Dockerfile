@@ -1,7 +1,7 @@
 # build-stage
 FROM alpine:3 as build-stage
 
-ARG VERSION=2022.9.0
+ARG VERSION=2023.9.8
 ARG CORTEZA_CLIENT_WEB_AIO_PKG=https://releases.cortezaproject.org/files/corteza-webapp-${VERSION}.tar.gz
 
 # Download package
